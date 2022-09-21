@@ -32,3 +32,21 @@ strg = str(10)
 intgr = int(10)
 print(type(strg))
 print(type(intgr))
+
+#String Concatenation
+#########################
+#String concatenation means adding strings together.
+#Use the "+" plus character to glue variables.
+#Only string can be concatenated 
+
+x = "Python is "
+y = "awesome"
+z =  x + y
+print(z)
+
+#Convert integers to strings in order to concatenate
+x = "Python"
+version = 3
+y = " is the latest version"
+z =  x + str(version) + y
+print(z)
