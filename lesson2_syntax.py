@@ -29,7 +29,10 @@ if 5 > 2:
 if 6 > 3:
   print("six is greater than three!")
 if 6 > 3:
-    print("six is greater than three!")
+        print("six is greater than three!")
 
 #You must have the same number of spaces in the same block of code
 #otherwise Python will give you an error:
+
+if 6 > 3:
+print("six is greater than three!")
