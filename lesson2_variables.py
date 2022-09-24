@@ -13,7 +13,7 @@ print(string)
 
 #Integer - numbers and decimal
 integer = 100
-print(100)
+print(integer)
 
 #boolean - is a varibale that is
 #either set to True or False
